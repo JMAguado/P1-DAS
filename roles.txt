@@ -1,0 +1,11 @@
+Arquitectos Software Senior (ASS): 
+	-José Justo Tena Agudo
+	-Cristian de Gracia Nuero
+
+Arquitectos Software Junior (ASJ):
+	-Antonio Cuadrado Álvarez
+	-José Manuel Aguado Gala
+
+Arquitectos Software Cognitivos (ASC):
+	-Aitor Ortega Pacheco
+	-Cristian Nicu Terci
